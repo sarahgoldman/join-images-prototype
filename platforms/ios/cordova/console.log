@@ -1,0 +1,43 @@
+2015-07-17 12:52:12.467 JoinImagesPrototype[4301:99009] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/sgoldm/Library/Developer/CoreSimulator/Devices/8A419ABE-E5D4-4AD5-A96F-C08AD99D70DB/data/Containers/Data/Application/FEC6A50A-5030-460E-A189-066E6E9186F3/Library/Cookies/Cookies.binarycookies
+2015-07-17 12:52:12.710 JoinImagesPrototype[4301:99009] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-17 12:52:12.735 JoinImagesPrototype[4301:99009] Multi-tasking -> Device: YES, App: YES
+2015-07-17 12:52:13.013 JoinImagesPrototype[4301:99009] Unlimited access to network resources
+2015-07-17 12:52:13.077 JoinImagesPrototype[4301:99009] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-17 12:52:17.935 JoinImagesPrototype[4301:99009] Resetting plugins due to page load.
+2015-07-17 12:52:18.564 JoinImagesPrototype[4301:99009] Finished load of: file:///Users/sgoldm/Library/Developer/CoreSimulator/Devices/8A419ABE-E5D4-4AD5-A96F-C08AD99D70DB/data/Containers/Bundle/Application/1C0B64EC-27F9-44CA-9681-2351CFACBB4E/JoinImagesPrototype.app/www/index.html
+2015-07-17 12:52:30.410 JoinImagesPrototype[4301:99241] Terminating since there is no system app.
+2015-07-17 14:37:26.778 JoinImagesPrototype[7649:163558] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/sgoldm/Library/Developer/CoreSimulator/Devices/8A419ABE-E5D4-4AD5-A96F-C08AD99D70DB/data/Containers/Data/Application/4AD8F1B6-50F7-4451-BDAA-664219F17D38/Library/Cookies/Cookies.binarycookies
+2015-07-17 14:37:26.865 JoinImagesPrototype[7649:163558] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-17 14:37:26.865 JoinImagesPrototype[7649:163558] Multi-tasking -> Device: YES, App: YES
+2015-07-17 14:37:26.878 JoinImagesPrototype[7649:163558] Unlimited access to network resources
+2015-07-17 14:37:26.894 JoinImagesPrototype[7649:163558] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-17 14:37:27.036 JoinImagesPrototype[7649:163558] Resetting plugins due to page load.
+2015-07-17 14:37:27.077 JoinImagesPrototype[7649:163558] Finished load of: file:///Users/sgoldm/Library/Developer/CoreSimulator/Devices/8A419ABE-E5D4-4AD5-A96F-C08AD99D70DB/data/Containers/Bundle/Application/7A633BBE-28F8-4224-AD0D-246E624D7E0D/JoinImagesPrototype.app/www/index.html
+2015-07-17 14:42:20.927 JoinImagesPrototype[7784:166138] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/sgoldm/Library/Developer/CoreSimulator/Devices/8A419ABE-E5D4-4AD5-A96F-C08AD99D70DB/data/Containers/Data/Application/885AEF76-4126-4B23-91FC-231498832ED0/Library/Cookies/Cookies.binarycookies
+2015-07-17 14:42:20.995 JoinImagesPrototype[7784:166138] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-17 14:42:20.995 JoinImagesPrototype[7784:166138] Multi-tasking -> Device: YES, App: YES
+2015-07-17 14:42:21.004 JoinImagesPrototype[7784:166138] Unlimited access to network resources
+2015-07-17 14:42:21.007 JoinImagesPrototype[7784:166138] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-17 14:42:21.212 JoinImagesPrototype[7784:166138] Resetting plugins due to page load.
+2015-07-17 14:42:21.262 JoinImagesPrototype[7784:166138] Finished load of: file:///Users/sgoldm/Library/Developer/CoreSimulator/Devices/8A419ABE-E5D4-4AD5-A96F-C08AD99D70DB/data/Containers/Bundle/Application/B8BBEF60-FB4C-4CAE-9684-75BDE33A8ADE/JoinImagesPrototype.app/www/index.html
