@@ -1,0 +1,36 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "res/xml/config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"Whitelist\"><param name=\"android-package\" value=\"org.apache.cordova.whitelist.WhitelistPlugin\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"JoinImages\"><param name=\"android-package\" value=\"com.sgoldm.plugin.joinImages.JoinImages\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.sgoldm.joinImagesPrototype"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.sgoldm.joinImagesPrototype"
+        },
+        "cordova-plugin-join-images": {
+            "PACKAGE_NAME": "com.sgoldm.joinImagesPrototype"
+        }
+    },
+    "dependent_plugins": {}
+}

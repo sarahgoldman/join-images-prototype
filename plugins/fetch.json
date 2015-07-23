@@ -18,9 +18,8 @@
     },
     "cordova-plugin-join-images": {
         "source": {
-            "type": "git",
-            "url": "https://github.com/sarahgoldman/cordova-plugin-join-images.git",
-            "subdir": "."
+            "type": "local",
+            "path": "../cordova-plugin-join-images"
         },
         "is_top_level": true,
         "variables": {}

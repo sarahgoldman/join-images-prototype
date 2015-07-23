@@ -27,7 +27,7 @@ module.exports.metadata =
 {
     "cordova-plugin-whitelist": "1.0.0",
     "cordova-plugin-console": "1.0.2-dev",
-    "cordova-plugin-join-images": "0.0.1"
+    "cordova-plugin-join-images": "1.0.0"
 }
 // BOTTOM OF METADATA
 });

@@ -40,9 +40,9 @@
 		7E7966E71810823500FA85AD /* icon-small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DD1810823500FA85AD /* icon-small@2x.png */; };
 		D4A0D8761607E02300AEF8BB /* Default-568h@2x~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = D4A0D8751607E02300AEF8BB /* Default-568h@2x~iphone.png */; };
 		52AC97BB3799417D8F01CD59 /* CDVLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 83525AB0DEE84325A4DF0786 /* CDVLogger.m */; };
-		72D8D159444145ABB8F4C51E /* JoinImages.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD54C3F76524EDC85D90825 /* JoinImages.m */; };
-		FA91A31894964A2085532130 /* ImageService.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C513226CDE04816A3114BB1 /* ImageService.m */; };
-		26B3FC8FCC6B460B8A7A616E /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A6FE6DCCFA34F7CA512697E /* NSData+Base64.m */; };
+		1726A89FD2024741BB842B61 /* JoinImages.m in Sources */ = {isa = PBXBuildFile; fileRef = F564C626B0F545DEAD380522 /* JoinImages.m */; };
+		9F9E06C626F14731A4C28175 /* ImageService.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5A2D91A7384FDD91CCF7B1 /* ImageService.m */; };
+		A500B32713B94A60A274B52E /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B09C4C08A494BEFB0695A05 /* NSData+Base64.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -110,12 +110,12 @@
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = "JoinImagesPrototype/config.xml"; sourceTree = "<group>"; };
 		83525AB0DEE84325A4DF0786 /* CDVLogger.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVLogger.m"; path = "cordova-plugin-console/CDVLogger.m"; sourceTree = "<group>"; fileEncoding = 4; };
 		8B4CBC5B0F254A2F84CBAFC9 /* CDVLogger.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVLogger.h"; path = "cordova-plugin-console/CDVLogger.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		1FD54C3F76524EDC85D90825 /* JoinImages.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "JoinImages.m"; path = "cordova-plugin-join-images/JoinImages.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		4C513226CDE04816A3114BB1 /* ImageService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ImageService.m"; path = "cordova-plugin-join-images/ImageService.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		5A6FE6DCCFA34F7CA512697E /* NSData+Base64.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "NSData+Base64.m"; path = "cordova-plugin-join-images/NSData+Base64.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		71D15D191AD04DCE94E73C74 /* JoinImages.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "JoinImages.h"; path = "cordova-plugin-join-images/JoinImages.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		51998C860C5C46D99F904703 /* ImageService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ImageService.h"; path = "cordova-plugin-join-images/ImageService.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		5BE35DCA1CA140F3BFB943CB /* NSData+Base64.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "NSData+Base64.h"; path = "cordova-plugin-join-images/NSData+Base64.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		F564C626B0F545DEAD380522 /* JoinImages.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "JoinImages.m"; path = "cordova-plugin-join-images/JoinImages.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		CB5A2D91A7384FDD91CCF7B1 /* ImageService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ImageService.m"; path = "cordova-plugin-join-images/ImageService.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		5B09C4C08A494BEFB0695A05 /* NSData+Base64.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "NSData+Base64.m"; path = "cordova-plugin-join-images/NSData+Base64.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		71B0C1F2DF8A461380B8D862 /* JoinImages.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "JoinImages.h"; path = "cordova-plugin-join-images/JoinImages.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		BE691E89F9C04829859D3BB4 /* ImageService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ImageService.h"; path = "cordova-plugin-join-images/ImageService.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		ECCBAF3C18894506A1806530 /* NSData+Base64.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "NSData+Base64.h"; path = "cordova-plugin-join-images/NSData+Base64.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,12 +216,12 @@
 			children = (
 				83525AB0DEE84325A4DF0786 /* CDVLogger.m */,
 				8B4CBC5B0F254A2F84CBAFC9 /* CDVLogger.h */,
-				1FD54C3F76524EDC85D90825 /* JoinImages.m */,
-				4C513226CDE04816A3114BB1 /* ImageService.m */,
-				5A6FE6DCCFA34F7CA512697E /* NSData+Base64.m */,
-				71D15D191AD04DCE94E73C74 /* JoinImages.h */,
-				51998C860C5C46D99F904703 /* ImageService.h */,
-				5BE35DCA1CA140F3BFB943CB /* NSData+Base64.h */,
+				F564C626B0F545DEAD380522 /* JoinImages.m */,
+				CB5A2D91A7384FDD91CCF7B1 /* ImageService.m */,
+				5B09C4C08A494BEFB0695A05 /* NSData+Base64.m */,
+				71B0C1F2DF8A461380B8D862 /* JoinImages.h */,
+				BE691E89F9C04829859D3BB4 /* ImageService.h */,
+				ECCBAF3C18894506A1806530 /* NSData+Base64.h */,
 			);
 			name = Plugins;
 			path = "JoinImagesPrototype/Plugins";
@@ -407,9 +407,9 @@
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
 				52AC97BB3799417D8F01CD59 /* CDVLogger.m in Sources */,
-				72D8D159444145ABB8F4C51E /* JoinImages.m in Sources */,
-				FA91A31894964A2085532130 /* ImageService.m in Sources */,
-				26B3FC8FCC6B460B8A7A616E /* NSData+Base64.m in Sources */,
+				1726A89FD2024741BB842B61 /* JoinImages.m in Sources */,
+				9F9E06C626F14731A4C28175 /* ImageService.m in Sources */,
+				A500B32713B94A60A274B52E /* NSData+Base64.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

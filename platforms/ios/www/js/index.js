@@ -45,33 +45,13 @@ var app = {
     // deviceready Event Handler
     onDeviceReady: function(self) {
         var self = this;
-		document.getElementById('join-url').addEventListener('click', function(e){
-			self.joinImagesUrl();
-		});
 		document.getElementById('join-data').addEventListener('click', function(e){
 			self.joinImagesData();
-		});
-		document.getElementById('resize-url').addEventListener('click', function(e){
-			self.resizeImageUrl();
 		});
 		document.getElementById('resize-data').addEventListener('click', function(e){
 			self.resizeImageData();
 		});
     },
-
-	joinImagesUrl: function() {
-		plugins.JoinImages.join({
-			sourceType: 'url',
-			firstImage: 'http://www.thetimes.co.uk/tto/multimedia/archive/00342/114240651_cat_342943c.jpg',
-			secondImage: 'http://www.myhoundhaven.org/images/Golden%20Retriever.jpg',
-			size: 5,
-			success: function(data){
-				console.log(data);
-				document.getElementById('result').src = 'data:image/jpeg;base64,'+data;
-			},
-			error: function(data){console.log(data)}
-		});
-	},
 	
 	joinImagesData: function() {
 		var xml = loadXMLDoc('xml/sample.xml');
@@ -82,19 +62,6 @@ var app = {
 			firstImage: leftEncoded,
 			secondImage: rightEncoded,
 			size: 5,
-			success: function(data){
-				console.log(data);
-				document.getElementById('result').src = 'data:image/jpeg;base64,'+data;
-			},
-			error: function(data){console.log(data)}
-		});
-	},
-	
-	resizeImageUrl: function() {
-		plugins.JoinImages.resize({
-			sourceType: 'url',
-			image: 'http://www.thetimes.co.uk/tto/multimedia/archive/00342/114240651_cat_342943c.jpg',
-			size: 0.1,
 			success: function(data){
 				console.log(data);
 				document.getElementById('result').src = 'data:image/jpeg;base64,'+data;

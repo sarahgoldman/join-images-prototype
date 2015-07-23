@@ -63,8 +63,6 @@ h1 {
 }
 
 .action-btn {
-	display: inline-block;
-	width: 30%;
     border-radius:4px;
     -webkit-border-radius:4px;
     color:#FFFFFF;
@@ -73,11 +71,11 @@ h1 {
     padding:5px;
 }
 
-.action-btn.url {
+.action-btn.join {
 	background-color: #D94EBD;
 }
 
-.action-btn.data {
+.action-btn.resize {
 	background-color: #734ED9;
 }
 
